@@ -1,0 +1,141 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  color: #66BFBF;
+   font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+line-height: 2%;
+}
+h2{
+    color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.profile-photo{
+  width: 15%;
+  margin-top: 40px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+ padding-top: 100px;
+
+  background-color: #E4F9F5;
+  position:relative;
+}
+.middle-container{
+}
+.vishal{
+  font-family: 'Sacramento', cursive;
+
+}
+.bottom-container{margin-top: 75px;
+  padding-bottom:  20px;
+  padding-top: 40px;
+  position:relative;
+  color: #11999E;
+background-color: #66BFBF;
+}
+.top-cloud{
+  position: absolute;
+ right: 250px;
+ top: 50px;
+}
+.bottom-cloud{
+  position:absolute;
+top:50%;
+left: 20%;
+}
+.footer-link{
+  color: #11999E;
+  margin-top: 40px;
+  margin-left: 40px;
+    margin-right:  40px;
+  font-size: 12px;
+  margin-bottom: 40px;
+  text-decoration: none;
+}
+.Website{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.chillies{
+  width: 25%;
+float: right;
+margin-left: 30px;
+
+}
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Georgia;
+  color: #fcfcfc;
+  font-size: 15px;
+  background: #66a2c9;
+  padding: 7px 10px 9px 12px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #000000;
+  text-decoration: none;
+}
+.intoduction{
+  color: #40514E;
+}
+.hr1{
+  margin-top:  50px;
+  margin-bottom: 50px;
+  background-color: white;
+border-style: none;
+border-top-style:  dotted;
+border-color: #9FC9F3;
+border-width: 5px;
+width: 3%;
+}
+.hr2{
+  margin-top:  50px;
+  margin-bottom: 50px;
+  background-color: white;
+  border-style: none;
+  border-top-style:  dotted;
+  border-color: #9FC9F3;
+  border-width: 5px;
+  width: 3%;
+}
+.p1{
+  margin-top: 40px;
+  margin-bottom: 50px;
+
+}
+.p2{margin-top: 35px;
+  margin-bottom: 35px;
+  font-size: 10px;
+  color: #EAF6F6;
+}
+p{
+color: red;
+line-height: 2;
+}
+.intoduction{
+  color: red;
+}
+a:hover{
+  color: white;
+}
